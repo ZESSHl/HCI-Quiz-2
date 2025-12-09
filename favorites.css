@@ -1,0 +1,32 @@
+.most-ordered-n-review-bg {
+    padding: 32px 64px 72px;
+}
+
+.most-ordered-cards {
+    max-width: 1376px;
+    margin: 0 auto;
+    padding: 43px 43px 43px;
+    border-radius: 49px;
+}
+
+.most-ordered-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.popular-dish-cards {
+    margin-top: 9px;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 20px;
+}
+
+.dish-cards {
+    overflow: hidden;
+    padding: 10px 12px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
