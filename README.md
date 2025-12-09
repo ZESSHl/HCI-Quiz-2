@@ -1,6 +1,12 @@
 Name: Jefferson Koo Kurniadi
 NIM : 2902669816
 
+mockup
+<img width="1560" height="800" alt="Screenshot 2025-12-09 at 10 25 45" src="https://github.com/user-attachments/assets/73fb6c30-bc07-449e-a9b7-aed6ea2e3006" />
+
+
+
+
 original pages
 favorites page before
 <img width="1560" height="800" alt="favorites_before" src="https://github.com/user-attachments/assets/88ae44a9-0883-41c9-832c-b9696a22148b" />
@@ -25,3 +31,4 @@ https://github.com/ZESSHl/HCI-Quiz-2
 
 live link
 https://zesshl.github.io/HCI-Quiz-2/
+
