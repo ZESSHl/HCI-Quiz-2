@@ -5,6 +5,11 @@
     text-decoration: none;
 }
 
+.resto {
+    display: flex;
+    justify-content: left;
+}
+
 
 .area {
     width: 18%;
@@ -23,11 +28,12 @@
 
 .restoname li {
     font-weight: 700;
-    font-size: 50px;
+    font-size: 100px;
 }
 
 .general {
-    align-items: end;
+    font-weight: 700;
+    font-size: large;
 }
 
 .sidebar ul {
